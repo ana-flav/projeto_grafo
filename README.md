@@ -6,7 +6,7 @@ Este é um projeto de exemplo que demonstra como criar e visualizar gráficos us
 
 Este projeto visa fornecer um exemplo simples de como criar, manipular e visualizar gráficos usando a biblioteca `igraph`. Um grafo com 4 vértices e 3 arestas é criado e visualizado usando a função `plot()`.
 
-## Funcionalidades Implementadas
+## Features
 
 O projeto foi desenvolvido seguindo a abordagem GitFlow, com a implementação de três features principais:
 
